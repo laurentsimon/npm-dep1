@@ -2,6 +2,7 @@
   "name": "@laurentsimon/npm-de1",
   "version": "0.0.1",
   "description": "Dependency test 1",
+  "url": "git+https://github.com/laurentsimon/npm-dep1",
   "main": "index.js",
   "dependencies": {
     "d3-array": "3.0.0"
