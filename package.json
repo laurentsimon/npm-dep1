@@ -1,4 +1,9 @@
 {
+  {
+  "name": "@laurentsimon/npm-de1",
+  "version": "0.0.1",
+  "description": "Dependency test 1",
+  "main": "index.js",
   "dependencies": {
     "d3-time": "3.0.0"
   }
