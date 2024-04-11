@@ -21,6 +21,7 @@ jobs:
          registry-url: 'https://registry.npmjs.org'
          cache: npm
      - run: npm install -g npm@latest
+     # Optional
      #- run: npm install
      - run: npm publish --access public
        env:
